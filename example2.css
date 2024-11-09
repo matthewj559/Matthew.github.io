@@ -1,0 +1,12 @@
+.name{
+    font-family: lobster;
+    color:teal;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: olive;
+    margin: 0px;
+}
+body{
+    background-color: olive;
+}
